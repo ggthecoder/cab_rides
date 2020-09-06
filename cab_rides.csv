@@ -1,0 +1,80 @@
+distance,cab_type,time_stamp,destination,source,price,surge_multiplier,id,product_id,name
+0.44,Lyft,1544952607890,North Station,Haymarket Square,5,1,424553bb-7174-41ea-aeb4-fe06d4f4b9d7,lyft_line,Shared
+0.44,Lyft,1543284023677,North Station,Haymarket Square,11,1,4bd23055-6827-41c6-b23b-3c491f24e74d,lyft_premier,Lux
+0.44,Lyft,1543366822198,North Station,Haymarket Square,7,1,981a3613-77af-4620-a42a-0c0866077d1e,lyft,Lyft
+0.44,Lyft,1543553582749,North Station,Haymarket Square,26,1,c2d88af2-d278-4bfd-a8d0-29ca77cc5512,lyft_luxsuv,Lux Black XL
+0.44,Lyft,1543463360223,North Station,Haymarket Square,9,1,e0126e1f-8ca9-4f2e-82b3-50505a09db9a,lyft_plus,Lyft XL
+0.44,Lyft,1545071112138,North Station,Haymarket Square,16.5,1,f6f6d7e4-3e18-4922-a5f5-181cdd3fa6f2,lyft_lux,Lux Black
+1.08,Lyft,1543208580200,Northeastern University,Back Bay,10.5,1,462816a3-820d-408b-8549-0b39e82f65ac,lyft_plus,Lyft XL
+1.08,Lyft,1543780384677,Northeastern University,Back Bay,16.5,1,474d6376-bc59-4ec9-bf57-4e6d6faeb165,lyft_lux,Lux Black
+1.08,Lyft,1543818482645,Northeastern University,Back Bay,3,1,4f9fee41-fde3-4767-bbf1-a00e108701fb,lyft_line,Shared
+1.08,Lyft,1543315522249,Northeastern University,Back Bay,27.5,1,8612d909-98b8-4454-a093-30bd48de0cb3,lyft_luxsuv,Lux Black XL
+1.08,Lyft,1543594383882,Northeastern University,Back Bay,13.5,1,9043bf77-1d45-4a93-9520-a083e0277f16,lyft_premier,Lux
+1.08,Lyft,1543432987778,Northeastern University,Back Bay,7,1,d859ec69-b3ff-4af8-9abd-441e31430c94,lyft,Lyft
+1.11,Uber,1543615981179,West End,North End,12,1,009e9c53-074d-43cf-aef2-0fbc7a47ed3d,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+1.11,Uber,1544698211014,West End,North End,16,1,23f145da-f0c1-4d1f-a184-496bc003a7db,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+1.11,Uber,1544728503935,West End,North End,7.5,1,357559cb-8c58-4278-a41a-e33b2e0997a3,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+1.11,Uber,1545004511430,West End,North End,7.5,1,50ef1165-9d23-416c-a65c-18906207b295,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+1.11,Uber,1544748007961,West End,North End,26,1,91c4861c-1780-42b0-bca1-bbd64a422cc3,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.11,Uber,1543519080802,West End,North End,5.5,1,e219e545-a006-4936-a6cc-7d00adf0e418,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.11,Uber,1543673584211,West End,North End,,1,fa5fb705-03a0-4eb9-82d9-7fe80872f754,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+0.72,Lyft,1544940911553,Haymarket Square,North Station,11,1,18d580ac-c91a-4b6d-aa75-ab62566f713e,lyft_plus,Lyft XL
+0.72,Lyft,1543346302541,Haymarket Square,North Station,16.5,1,3ef5c509-f292-42ef-b39c-bce7059006a0,lyft_lux,Lux Black
+0.72,Lyft,1545132905654,Haymarket Square,North Station,7,1,5ef44fdf-c5d3-4d07-967a-a8710e537e74,lyft,Lyft
+0.72,Lyft,1543544884042,Haymarket Square,North Station,3.5,1,a7c1afce-9781-41c9-b6a6-df109ad43ccd,lyft_line,Shared
+0.72,Lyft,1544978406463,Haymarket Square,North Station,26,1,d0782aae-4cfa-45df-b6e4-e300b09c2563,lyft_luxsuv,Lux Black XL
+0.72,Lyft,1543218371798,Haymarket Square,North Station,13.5,1,f4f03d2d-434b-41f3-935a-c29e3f2de8bd,lyft_premier,Lux
+2.48,Uber,1545079209832,South Station,Beacon Hill,8.5,1,1d451059-895c-4179-8cec-40adfbc4f6d3,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.48,Uber,1544931613778,South Station,Beacon Hill,15,1,1f64fcff-b01f-4b64-90f4-5c866d717317,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.48,Uber,1543324882052,South Station,Beacon Hill,20.5,1,2ca4699c-21e1-4fb4-9cc2-1d6221199d08,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.48,Uber,1544697611531,South Station,Beacon Hill,8.5,1,4149295f-4534-4712-b2cf-160308528c75,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.48,Uber,1545085512519,South Station,Beacon Hill,7,1,80d2a972-2686-4edc-bc22-ddccdf211fde,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+2.48,Uber,1544817908118,South Station,Beacon Hill,27.5,1,8674e79f-4c5b-4a2e-8327-a68997d5d740,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+2.48,Uber,1543794776318,South Station,Beacon Hill,,1,eee70d94-6706-4b95-a8ce-0e34f0fa8f37,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.24,Lyft,1543289422292,Northeastern University,North Station,3.5,1,00dd58fc-fa9e-4eeb-bb6e-dfeb94611e85,lyft_line,Shared
+3.24,Lyft,1543774987499,Northeastern University,North Station,11,1,174b960d-58f1-4dfd-8672-8b43f13726a7,lyft,Lyft
+3.24,Lyft,1544816705598,Northeastern University,North Station,19.5,1,1d34b421-4ee7-4ec5-bba5-265f43b91a4e,lyft_premier,Lux
+3.24,Lyft,1543743182105,Northeastern University,North Station,26,1,72fb8672-a823-447e-ae15-fd51aef9db66,lyft_lux,Lux Black
+3.24,Lyft,1544747410816,Northeastern University,North Station,16.5,1,e61386a3-b205-49b4-b064-990b124ecfa2,lyft_plus,Lyft XL
+2.94,Uber,1543638777654,Fenway,North Station,29.5,1,39f120bf-ddc0-4d27-8ab4-bb7d46ecf8e3,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+2.94,Uber,1543414987719,Fenway,North Station,9.5,1,4d36b792-8973-4dd2-aaf9-aacaac046bd5,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.94,Uber,1543739576844,Fenway,North Station,15,1,53bc8bc7-0b27-4648-9742-d7956d2a13a8,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.94,Uber,1543523885298,Fenway,North Station,,1,7f47ff53-7cf2-4a6a-8049-83c90e042593,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+2.94,Uber,1544789105468,Fenway,North Station,9.5,1,c05d4e09-3f00-43cf-a0d8-6f38c0f4d04a,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.94,Uber,1543286002090,Fenway,North Station,22,1,c7d4bb19-3c35-46c7-ad3c-f00a03ccfdfe,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.94,Uber,1544856310163,Fenway,North Station,9,1,d25c46f2-b8a3-454d-97d1-4e2c8e1dff68,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.76,Lyft,1543400227398,South Station,North Station,5,1,0c26c153-a58d-419d-b557-37cfad67585c,lyft_line,Shared
+1.76,Lyft,1544963414097,South Station,North Station,9,1,104ced5c-1c1b-4021-94bb-b21af453399a,lyft,Lyft
+1.76,Lyft,1544920811287,South Station,North Station,16.5,1,1cf8a0a5-d871-41ba-91c7-53658851501e,lyft_premier,Lux
+1.76,Lyft,1544883309320,South Station,North Station,26,1,5e990c7a-8f5c-4583-812c-b6200dd018f6,lyft_luxsuv,Lux Black XL
+1.76,Lyft,1543312822029,South Station,North Station,13.5,1,bd1d5b1a-ed7f-4fc8-8fd1-9236a5de403e,lyft_plus,Lyft XL
+1.76,Lyft,1543421288000,South Station,North Station,19.5,1,c7a2284b-2f7b-49a8-8d5b-90e1ebe18a1f,lyft_lux,Lux Black
+0.71,Lyft,1543666982457,West End,Haymarket Square,7,1,2e0059db-945e-4615-9f87-46b8966d62f2,lyft,Lyft
+0.71,Lyft,1543243090567,West End,Haymarket Square,9,1,77667337-1484-497d-a0d2-2844126c2517,lyft_plus,Lyft XL
+0.71,Lyft,1543718284659,West End,Haymarket Square,10.5,1,c03b25ba-1d74-4522-8f3b-feb4bebcb4c7,lyft_premier,Lux
+0.71,Lyft,1543514583808,West End,Haymarket Square,3,1,fa00bcf3-78f7-4b62-b133-c3190a85edab,lyft_line,Shared
+1.23,Lyft,1543823577493,Theatre District,Haymarket Square,5,1,33d90ba7-60f5-4da1-afc3-39d4d038f7ec,lyft_line,Shared
+1.23,Lyft,1543236069468,Theatre District,Haymarket Square,13.5,1,6c936f6d-c587-49ae-bb39-5aeb54eff756,lyft_premier,Lux
+1.23,Lyft,1543807082043,Theatre District,Haymarket Square,11,1,8b905a5a-c626-42a6-b23b-eae7c7b689a3,lyft_plus,Lyft XL
+1.23,Lyft,1543446220644,Theatre District,Haymarket Square,26,1,c8c093f0-960b-4668-b1f6-1e42dcf6bd6b,lyft_luxsuv,Lux Black XL
+1.23,Lyft,1543282941895,Theatre District,Haymarket Square,16.5,1,ee029d73-c9ad-463d-a15e-ba20fac8c292,lyft_lux,Lux Black
+1.23,Lyft,1543852985839,Theatre District,Haymarket Square,7,1,f76a05b7-60a7-4df5-94b9-de16881691ca,lyft,Lyft
+1.16,Uber,1544731816318,West End,North End,,1,43abdbe4-ab9e-4f39-afdc-31cfa375dc25,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+1.16,Uber,1544688606983,West End,North End,9.5,1,5e1deff9-8f75-4e77-a1b1-7f6749e4eed3,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+1.16,Uber,1543445408141,West End,North End,16.5,1,a6d2d9af-e412-4ec0-8206-88e272b5a14e,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+1.16,Uber,1544859906968,West End,North End,7,1,c53e48e4-a7b6-43e9-b4f4-afadc78dc2aa,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.16,Uber,1543325422263,West End,North End,9.5,1,c9dee6ef-eca0-43ba-9bf9-ec00a6638164,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+1.16,Uber,1543428487883,West End,North End,27.5,1,e209499c-d217-4ea8-b72a-8a879646b29a,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.16,Uber,1543474677639,West End,North End,13,1,fc3205bd-3419-40db-b00f-ddced9beff33,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.67,Uber,1545130211033,Beacon Hill,North End,9.5,1,26cd4b22-179f-48db-a03f-2cc8c87d624e,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.67,Uber,1543286541956,Beacon Hill,North End,9.5,1,5ed9f6ab-4582-45c6-a1de-5602e911c3bb,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.67,Uber,1543583283653,Beacon Hill,North End,,1,80db1c49-9d51-4575-a4f4-1ec23b4d3e31,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+1.16,Lyft,1543831981297,Beacon Hill,Haymarket Square,7,1,09740fbe-a03b-48df-a25a-6a01d4fc30e7,lyft,Lyft
+1.16,Lyft,1543820582501,Beacon Hill,Haymarket Square,13.5,1,2ff1a200-7c68-4813-9141-af7eeb93b37d,lyft_plus,Lyft XL
+1.16,Lyft,1543603386099,Beacon Hill,Haymarket Square,26,1,395294c8-4b2b-4cde-aaf9-3ac478cfddc3,lyft_luxsuv,Lux Black XL
+1.16,Lyft,1543786383705,Beacon Hill,Haymarket Square,13.5,1,59481bfd-d72d-4d6d-af73-8006fc872948,lyft_premier,Lux
+1.16,Lyft,1545036606996,Beacon Hill,Haymarket Square,5,1,aa1f01a1-f54a-4978-b266-a14f877baad1,lyft_line,Shared
+1.16,Lyft,1543410387439,Beacon Hill,Haymarket Square,16.5,1,b4d6e3a6-8fce-4863-9674-e3abb49c53db,lyft_lux,Lux Black
+3.39,Uber,1543784280319,North Station,Boston University,9.5,1,0617e9b6-45f9-4f45-aa2b-5d06da008088,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.39,Uber,1544879104960,North Station,Boston University,9.5,1,37b99b0e-d2a9-4aa6-b145-54de1c8793eb,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.39,Uber,1543478885039,North Station,Boston University,17,1,433900c1-12d0-4771-85ea-1e1f1a4a6d63,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
